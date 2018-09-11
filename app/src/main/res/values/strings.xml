@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoxesManager</string>
+    <string name="e_mail">E-mail</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="ok">Enter</string>
+    <string name="no_acc">Don`t have account?</string>
+</resources>
